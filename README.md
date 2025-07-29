@@ -115,10 +115,7 @@ Improve your cybersecurity knowledge with these widely-recognized resources:
 Specify your license (MIT, GPLv3, etc.) so users know how they may use your code.
 
 ---
+📫 Contact
+Got feedback or suggestions? Feel free to reach out via GitHub or LinkedIn.
 
-**Enhancements you may consider**:
-
-* Add short README files in each demo folder with step-by-step usage.
-* Include screenshots or sample output in the repo or within `assets/`.
-* Optionally integrate a table-of-contents navigation in the root README.
-* If your repository targets beginners, you might include a simple “Setup Guide” for getting Kali or Docker ready.
+---
