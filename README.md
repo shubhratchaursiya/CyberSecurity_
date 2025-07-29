@@ -115,9 +115,11 @@ Improve your cybersecurity knowledge with these widely-recognized resources:
 Specify your license (MIT, GPLv3, etc.) so users know how they may use your code.
 
 ---
-## 🔗 Social
 
-🐙 [GitHub](https://github.com/shubhratchaursiya)  
-💼 [LinkedIn](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)
+## 📬 Contact
+
+Feel free to connect or share feedback:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/shubhrat-chaursiya-819672354/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/shubhratchaursiya)
 
 ---
